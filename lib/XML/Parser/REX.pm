@@ -2,6 +2,9 @@ package XML::Parser::REX;
 use warnings;
 use strict;
 
+our $VERSION = '1.01';
+
+
 # REX/Perl 1.0 
 # Robert D. Cameron "REX: XML Shallow Parsing with Regular Expressions",
 # Technical Report TR 1998-17, School of Computing Science, Simon Fraser 
